@@ -18,7 +18,7 @@ public class Auto {
        bEncendidoMotor = true;
     }
     public void apagarMotor(){
-        System.out.println("Motor Apagado");
+        System.out.println("Motor apagadolargo");
         bEncendidoMotor = false;
     }
     public void avanzar(){
